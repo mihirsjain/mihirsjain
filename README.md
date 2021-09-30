@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning AWS & Cloud Security
+- 👨‍🎓 Computer Engineer with Specialization in Cybersecurity & Forensics 
+- 🤔 I’m looking for help with Web Development
+- 🏄‍♂️ I want to learn Blockchain Development
+- 💬 Ask me about Cybersecurity,Blockchain
+
